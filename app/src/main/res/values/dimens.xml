@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+
+    <dimen name="progress_bar_bottom">278dp</dimen>
+    <dimen name="progress_bar_top">165dp</dimen>
+    <dimen name="progress_bar_padding">10dp</dimen>
+
+    <dimen name="margin_left">8dp</dimen>
+    <dimen name="margin_right">8dp</dimen>
+    <dimen name="margin_top">8dp</dimen>
+    <dimen name="margin_bottom">8dp</dimen>
+
+    <dimen name="margin_left_plus">16dp</dimen>
+    <dimen name="margin_right_plus">16dp</dimen>
+    <dimen name="margin_top_plus">16dp</dimen>
+    <dimen name="margin_bottom_plus">16dp</dimen>
+
+    <dimen name="margin_plus">16dp</dimen>
+
+    <dimen name="logo_dimem">100dp</dimen>
+    <dimen name="default_margin_login">32dp</dimen>
+    <dimen name="text_size">18sp</dimen>
+    <dimen name="text_size_plus">24sp</dimen>
+    <dimen name="text_layout_width">352dp</dimen>
+    <dimen name="text_layout_height">87dp</dimen>
+
+    <dimen name="margin_bottom_version">35dp</dimen>
+    <dimen name="margin_bottom_logo">35dp</dimen>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Game List</string>
+    <string name="user">Usuario</string>
+    <string name="lbLogin">Entrar</string>
+    <string name="stay_connected">Permancecer conectato</string>
+    <string name="login">Entrar</string>
+    <string name="register">Registrar</string>
+    <string name="todo">TODO</string>
+    <string name="name">Nome</string>
+    <string name="add_new_game">Adiciona um novo jogo a coleção</string>
+    <string name="description">Descrição do jogo</string>
+    <string name="edit_game">Editar</string>
+    <string name="remove_game">Remover</string>
+    <string name="edit_the_game">Editar o jogo</string>
+    <string name="add">Adicionar</string>
+    <string name="password">Senha</string>
+    <string name="new_user">Novo Usuário</string>
+    <string name="version">Versão 1.0</string>
+    <string name="about">Sobre</string>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Game List</string>
+    <string name="user">User</string>
+    <string name="lbLogin">LogIn</string>
+    <string name="stay_connected">Stay connected</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name</string>
+    <string name="new_user">New User</string>
+    <string name="password">Password</string>
+    <string name="add_new_game">Add a new game to collection</string>
+    <string name="description">Description of the game</string>
+    <string name="edit_game">Edit</string>
+    <string name="remove_game">Remove</string>
+    <string name="edit_the_game">Edit the game</string>
+    <string name="add">Add</string>
+    <string name="about">About</string>
+    <string name="version">Version 1.0</string>
+    <string name="by1" translatable="false">LUCAS DIAS LOPES</string>
+    <string name="by2" translatable="false">TONY MIGUEL BRITO DOS SANTOS</string>
+</resources>

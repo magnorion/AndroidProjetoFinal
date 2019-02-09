@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TelaPrincipal">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/jogo_recyclerview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/jogo_recyclerview"
+            android:layout_alignBottom="@+id/jogo_recyclerview"
+            android:layout_marginTop="@dimen/progress_bar_top"
+            android:layout_marginBottom="@dimen/progress_bar_bottom"
+            android:padding="@dimen/progress_bar_padding"
+            android:visibility="gone" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/fab"
+            android:layout_margin="@dimen/margin_plus"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fabExit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="@dimen/margin_left_plus"
+            android:layout_marginLeft="@dimen/margin_left_plus"
+            android:layout_marginBottom="@dimen/margin_bottom_plus"
+            android:src="@drawable/ic_action_exit" />
+    </RelativeLayout>
+</android.support.constraint.ConstraintLayout>
